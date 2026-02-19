@@ -15,13 +15,24 @@ It gets deployed in pharmacies, public institutions, and enterprise environments
 
 ## What I Actually Ship
 
-| Project | What It Does | Impact |
+### 🛡️ Security AI
+| Repository | What It Does | Stack |
 |---|---|---|
-| 🛡️ **Blackbox Sentinel** | AI security platform — SOC automation, DLP, data intelligence | **87% reduction** in alert investigation time (15min → 2min) |
-| 💊 **BoaSaúde** | B2B SaaS health platform | Deployed across **60+ pharmacies** |
-| 🤖 **AIOS Core** | AI Operating System — autonomous agent orchestration | Active contributor |
-| 📄 **AI Doc Analyzer** | RAG system — upload PDF, ask questions, get sourced answers | FAISS + LangChain + OpenAI |
-| ⚙️ **n8n AI Workflows** | Business automation pipelines with LLM scoring | Lead qualification, content pipeline, DLP |
+| [Blackbox-Sentinel](https://github.com/jacquesbelmont/Blackbox-Sentinel) | AI security platform — SOC automation, DLP, data intelligence. Cuts alert investigation from 15min → 2min (**87% reduction**) | TypeScript · NVIDIA DGX · Llama 3.1 70B |
+| [sentinel-ai](https://github.com/jacquesbelmont/sentinel-ai) | Sentinel architecture for autonomous threat detection | Python |
+
+### 🤖 LLM Applications & RAG
+| Repository | What It Does | Stack |
+|---|---|---|
+| [docuchat-pro](https://github.com/jacquesbelmont/docuchat-pro) | Production RAG system — upload documents, ask questions, get sourced answers | Python · LangChain · FAISS |
+| [azureai-custom-translator](https://github.com/jacquesbelmont/azureai-custom-translator) | Production-minded translation API using Azure AI | Astro · Azure AI |
+
+### 🔁 Autonomous Agents
+| Repository | What It Does | Stack |
+|---|---|---|
+| [aios-core](https://github.com/jacquesbelmont/aios-core) | AI-Orchestrated System for Full Stack Development — Core Framework v4.0 | JavaScript |
+| [aios-squads](https://github.com/jacquesbelmont/aios-squads) | Multi-agent squads — ETL, Creator, MMOS autonomous teams | JavaScript |
+| [ralph](https://github.com/jacquesbelmont/ralph) | Autonomous AI agent loop — runs until all PRD items are complete | TypeScript |
 
 ---
 
