@@ -62,8 +62,8 @@ I use **Windsurf + Claude** as my development environment. I shipped a full-stac
 ## Certifications & Education
 
 - 🔷 **Microsoft Azure AI Engineer (AI-102)** — In Progress  
-- 🎓 **Postgraduate: Data Engineering & AI** — Faculdade Focus (Jan 2026)  
-- 🏛️ **Harvard Kennedy School Executive Education** (Feb 2026)  
+- 🎓 **Postgraduate: Data Engineering & AI** — Faculdade Focus (Jan 2026)  — In Progress  
+- 🏛️ **Harvard Kennedy School Executive Education** (Feb 2026)  — In Progress  
 - 🎓 **B.Sc. Information Systems** — UNIESP (2015)  
 - ✅ Google Cloud: Introduction to Generative AI  
 - ✅ ENAP: Prompt Engineering for Public Services  
