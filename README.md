@@ -1,204 +1,78 @@
-# 👋 Hi, I'm Jacques Belmont
+# Jacques Belmont
 
-**AI Engineer | Prompt Engineering Specialist | Full-Stack Developer**
+```
+╔══════════════════════════════════════════════════════════════════╗
+║  AI Engineer · LLM Systems · Security Automation · RAG Architect ║
+║  Porto Velho, Brazil — Available: Remote (Global)                ║
+╚══════════════════════════════════════════════════════════════════╝
+```
 
-I build production-ready AI systems that solve real problems. My work combines software engineering with LLM orchestration to create intelligent automation for enterprises and public sector organizations.
-
-🌍 **Based in:** Porto Velho, Brazil | 🌐 **Available:** Remote (Global)  
-📧 **Contact:** jacquesbelmont@gmail.com | 🔗 **Web:** [jacquesbelmont.com](https://jacquesbelmont.com)
+I build **production-grade AI systems** — not demos.  
+My work runs on NVIDIA DGX. It cuts SOC investigation time from 15min to 2min.  
+It gets deployed in pharmacies, public institutions, and enterprise environments.
 
 ---
 
-## 🎯 What I Do
+## What I Actually Ship
 
-I specialize in bridging the gap between AI capabilities and business needs:
-
-- **LLM Application Development:** Building agents with GPT-4, Claude, and open-source models
-- **Prompt Engineering:** Creating scalable frameworks for consistent AI outputs
-- **Process Automation:** Reducing manual work through n8n workflows and Python scripts
-- **RAG Systems:** Implementing retrieval-augmented generation for document intelligence
-- **Web Development:** Full-stack apps with React, Astro, Python (Django/Flask)
-
-Currently pursuing **IBM AI Engineering Professional Certificate** and specializing in AI for Public Services.
+| Project | What It Does | Impact |
+|---|---|---|
+| 🛡️ **Blackbox Sentinel** | AI security platform — SOC automation, DLP, data intelligence | **87% reduction** in alert investigation time (15min → 2min) |
+| 💊 **BoaSaúde** | B2B SaaS health platform | Deployed across **60+ pharmacies** |
+| 🤖 **AIOS Core** | AI Operating System — autonomous agent orchestration | Active contributor |
+| 📄 **AI Doc Analyzer** | RAG system — upload PDF, ask questions, get sourced answers | FAISS + LangChain + OpenAI |
+| ⚙️ **n8n AI Workflows** | Business automation pipelines with LLM scoring | Lead qualification, content pipeline, DLP |
 
 ---
 
-## 🛠️ Tech Stack
+## Stack
 
-**AI & Machine Learning**
-```
-Python • LangChain • LangGraph • OpenAI API • Anthropic Claude • IBM watsonx
-Prompt Engineering • RAG (Retrieval-Augmented Generation) • Vector Databases
-```
-
-**Web Development**
-```
-JavaScript/TypeScript • React • Astro • Node.js • HTML/CSS • Tailwind CSS
-WordPress (Advanced Customization) • REST APIs • JSON
-```
-
-**Automation & DevOps**
-```
-n8n • Docker • Git/GitHub • CI/CD • Python Scripts
-```
-
-**Data & Analytics**
-```
-Google Analytics 4 • Search Console • SEMrush • Ahrefs • PostgreSQL
+```python
+llm_stack    = ["GPT-4", "Claude", "Llama 3.1 70B", "Mistral"]
+frameworks   = ["LangChain", "LangGraph", "n8n", "Streamlit", "FastAPI"]
+infra        = ["NVIDIA DGX", "Docker", "Azure AI", "FAISS", "PostgreSQL"]
+languages    = ["Python", "TypeScript", "React", "Node.js"]
+methods      = ["RAG", "Fine-tuning", "Agent Orchestration", "Prompt Engineering"]
 ```
 
 ---
 
-## 🚀 Featured Projects
+## Background
 
-### 🤖 [VibeCode Framework - AI Automation for Public Sector](https://github.com/jacquesbelmont/vibecode-framework)
-**Stack:** Python, LangChain, Streamlit  
-**Demo:** [▶️ Watch Demo](#) | **Status:** Active Development
+**10+ years** in software development.  
+Co-founded **BoaSaúde** (B2B SaaS, 60+ pharmacies).  
+Founded & led **Google Developers Group João Pessoa** — 500+ developers, 10 years.  
+Last 18 months: deep specialization in LLM systems, autonomous agents, and AI security.
 
-Methodology and training framework enabling non-technical government staff to create AI-powered automations. Includes 20+ templates for common public sector tasks.
-
-**Key Features:**
-- LGPD-compliant document processing
-- Automated report generation from structured data
-- Multi-language support (PT, EN, ES)
+I use **Windsurf + Claude** as my development environment. I shipped a full-stack AI platform to production in under 7 days.
 
 ---
 
-### 🎰 [Roulette PRO - Probability Analysis Engine](https://github.com/jacquesbelmont/roulette-pro)
-**Stack:** JavaScript, React, TypeScript  
-**Demo:** [▶️ Watch Demo](#) | **Live:** [Try it here](#)
+## Certifications & Education
 
-Real-time probabilistic pattern analyzer built to demonstrate advanced JavaScript logic and data manipulation.
-
-**Technical Highlights:**
-- Complex JSON data structure handling
-- Real-time statistical calculations
-- Progressive Web App (PWA) with offline support
-- Responsive UI with Tailwind CSS
+- 🔷 **Microsoft Azure AI Engineer (AI-102)** — In Progress  
+- 🎓 **Postgraduate: Data Engineering & AI** — Faculdade Focus (Jan 2026)  
+- 🏛️ **Harvard Kennedy School Executive Education** (Feb 2026)  
+- 🎓 **B.Sc. Information Systems** — UNIESP (2015)  
+- ✅ Google Cloud: Introduction to Generative AI  
+- ✅ ENAP: Prompt Engineering for Public Services  
 
 ---
 
-### 🌐 [Jacques OS - Personal CMS & Portfolio](https://jacquesbelmont.com)
-**Stack:** Astro (SSR), React Islands, Prisma, PostgreSQL  
-**Demo:** [▶️ Watch Demo](#)
+## What I'm Looking For
 
-Custom-built Content Management System using modern JAMstack architecture. Demonstrates full-stack capabilities and AI-assisted development workflow.
+I'm open to **remote contracts globally** in:
 
-**Features:**
-- Multi-language content (EN, ES, PT, ZH, AR)
-- Custom admin panel with authentication
-- SEO-optimized with structured data (JSON-LD)
-- Server-side rendering for performance
+- AI Engineering (LLM systems, agents, RAG)
+- Security AI / SOC Automation
+- AI Integration for enterprises and SaaS products
 
----
+**Response time:** fast. **Delivery:** production-grade. **Rate:** negotiable in USD/EUR.
 
-### 📄 [AI Document Analyzer with RAG](https://github.com/jacquesbelmont/ai-doc-analyzer)
-**Stack:** Python, LangChain, OpenAI Embeddings, Streamlit  
-**Demo:** [▶️ Watch Demo](#) | **Status:** In Progress
-
-Upload PDFs and ask questions using retrieval-augmented generation. Demonstrates practical implementation of RAG systems.
-
-**Technical Implementation:**
-- Document chunking and embedding generation
-- Vector similarity search
-- LLM-powered question answering
-- Dockerized deployment
+📧 jacquesbelmont@gmail.com  
+🌐 [jacquesbelmont.com](https://jacquesbelmont.com)  
+💼 [linkedin.com/in/jacquesbelmont](https://linkedin.com/in/jacquesbelmont)
 
 ---
 
-### 🔗 [n8n AI Workflows Collection](https://github.com/jacquesbelmont/n8n-workflows)
-**Stack:** n8n, JavaScript, OpenAI API  
-**Demo:** [▶️ Watch Demo](#)
-
-Production-ready automation workflows combining APIs, webhooks, and LLMs for business process automation.
-
-**Example Workflows:**
-- Automated content analysis and tagging
-- Lead qualification with AI scoring
-- Document processing pipeline
-- Social media monitoring with sentiment analysis
-
----
-
-## 📚 Learning Path & Certifications
-
-**Currently Studying:**
-- 🎓 IBM AI Engineering Professional Certificate (In Progress)
-- 🎓 Postgraduate: Artificial Intelligence for Public Services (In Progress)
-
-**Completed:**
-- ✅ Introduction to Generative AI - Google Cloud Skills Boost
-- ✅ Prompt Engineering for Public Servants - ENAP (Brazil)
-- ✅ Google Analytics Certification
-- ✅ SEMrush SEO Fundamentals
-
-**Academic Background:**
-- 🎓 Bachelor's Degree in Information Systems - UNIESP (2015)
-
----
-
-## 💼 Work Experience Highlights
-
-**AI Solutions Architect & Developer** | JB Mídia (2024 - Present)
-- Developing LLM-powered applications for internal automation and client solutions
-- Creating prompt engineering frameworks for consistent AI outputs
-- Implementing RAG systems for document intelligence
-- Training teams on AI tool adoption and best practices
-
-**Community Manager & Technical Lead** | Google Developers Group (2008 - 2018)
-- Organized workshops on web development and Google technologies
-- Led technical community of 500+ developers
-- Presented on web performance optimization and modern JavaScript
-
----
-
-## 📊 GitHub Stats
-
-![Jacques's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jacquesbelmont&show_icons=true&theme=dark)
-
----
-
-## 🌟 What Makes Me Different
-
-I don't just follow tutorials—I build production systems. My background in digital marketing gives me a unique perspective: I understand business metrics, user behavior, and the ROI of automation.
-
-**My approach:**
-1. **Start with the problem**, not the technology
-2. **Build incrementally** with working prototypes
-3. **Document everything** for team knowledge sharing
-4. **Focus on maintainability** over clever code
-
----
-
-## 🤝 Open to Opportunities
-
-I'm actively seeking roles in:
-- 🎯 AI Engineering (Junior to Mid-Level)
-- 🎯 Prompt Engineering Specialist
-- 🎯 Full-Stack Developer with AI focus
-- 🎯 Technical Consulting for Public Sector (Brazil)
-
-**Preferred work arrangement:** Remote (open to global opportunities)
-
----
-
-## 📫 Let's Connect
-
-- 💼 [LinkedIn](https://linkedin.com/in/jacquesbelmont)
-- 🌐 [Portfolio](https://jacquesbelmont.com)
-- 📧 [Email](mailto:jacquesbelmont@gmail.com)
-- 🐦 [Twitter/X](https://twitter.com/jacquesbelmont) (if you have)
-
----
-
-<p align="center">
-  <i>⭐ If you find my work interesting, consider starring some repositories!</i>
-</p>
-
-<p align="center">
-  <i>"Building the future, one commit at a time."</i>
-</p>
-
----
-
-**Last Updated:** January 2026
+<sub>1st Place — Startup Jam (Global) · Google Developer Expert Alumni · Building AI systems since before it was cool.</sub>
